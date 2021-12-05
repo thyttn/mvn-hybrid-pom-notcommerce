@@ -1,0 +1,103 @@
+[INFO ] [2021-08-12 07:31:39,750] Precondition - Step 01 - Open browser 'firefox'
+[INFO ] [2021-08-12 07:32:07,718] Register - Step 01 - click to register link
+[INFO ] [2021-08-12 07:32:10,824] Register - Step 02 - enter infor
+[INFO ] [2021-08-12 07:32:11,715] Register - Step 03 - click to register button
+[INFO ] [2021-08-12 07:32:16,006] Register - Step 04 - verify success
+[INFO ] [2021-08-12 07:59:58,077] Precondition - Step 01 - Open browser 'firefox'
+[INFO ] [2021-08-12 08:00:12,124] Register - Step 01 - click to register link
+[INFO ] [2021-08-12 08:00:14,960] Register - Step 02 - enter infor
+[INFO ] [2021-08-12 08:00:15,752] Register - Step 03 - click to register button
+[INFO ] [2021-08-12 08:00:20,032] Register - Step 04 - verify success
+[INFO ] [2021-08-12 08:00:20,122]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-08-12 08:12:16,439] Precondition - Step 01 - Open browser 'firefox'
+[INFO ] [2021-08-12 08:12:29,046] Register - Step 01 - click to register link
+[INFO ] [2021-08-12 08:12:31,860] Register - Step 02 - enter infor
+[INFO ] [2021-08-12 08:12:32,615] Register - Step 03 - click to register button
+[INFO ] [2021-08-12 08:12:35,374] Register - Step 04 - verify success
+[INFO ] [2021-08-12 08:12:35,466]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-08-12 08:12:37,365] Precondition - Step 01 - Open browser 'chrome'
+[INFO ] [2021-08-12 08:12:48,195] Register - Step 01 - click to register link
+[INFO ] [2021-08-12 08:12:51,071] Register - Step 02 - enter infor
+[INFO ] [2021-08-12 08:12:52,072] Register - Step 03 - click to register button
+[INFO ] [2021-08-12 08:12:56,477] Register - Step 04 - verify success
+[INFO ] [2021-08-12 08:12:56,551]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-08-12 08:27:40,025] Precondition - Step 01 - Open browser 'firefox'
+[INFO ] [2021-08-12 08:27:40,107] Precondition - Step 01 - Open browser 'chrome'
+[INFO ] [2021-08-12 08:27:49,996] Register - Step 01 - click to register link
+[INFO ] [2021-08-12 08:27:52,952] Register - Step 02 - enter infor
+[INFO ] [2021-08-12 08:27:54,508] Register - Step 03 - click to register button
+[INFO ] [2021-08-12 08:27:55,030] Register - Step 01 - click to register link
+[INFO ] [2021-08-12 08:27:57,888] Register - Step 02 - enter infor
+[INFO ] [2021-08-12 08:27:58,588] Register - Step 03 - click to register button
+[INFO ] [2021-08-12 08:27:58,801] Register - Step 04 - verify success
+[INFO ] [2021-08-12 08:27:58,875]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-08-12 08:28:01,365] Register - Step 04 - verify success
+[INFO ] [2021-08-12 08:28:01,458]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-08-12 09:27:16,453] Precondition - Step 01 - Open browser 'chrome'
+[INFO ] [2021-08-12 09:27:16,453] Precondition - Step 01 - Open browser 'firefox'
+[INFO ] [2021-08-12 09:27:27,614] Register - Step 01 - click to register link
+[INFO ] [2021-08-12 09:27:30,615] Register - Step 02 - enter infor
+[INFO ] [2021-08-12 09:27:31,844] Register - Step 03 - click to register button
+[INFO ] [2021-08-12 09:27:36,670] Register - Step 04 - verify success
+[INFO ] [2021-08-12 09:27:36,749]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-08-12 09:27:43,400] Register - Step 01 - click to register link
+[INFO ] [2021-08-12 09:27:46,248] Register - Step 02 - enter infor
+[INFO ] [2021-08-12 09:27:47,196] Register - Step 03 - click to register button
+[INFO ] [2021-08-12 09:27:51,389] Register - Step 04 - verify success
+[INFO ] [2021-08-12 09:27:51,488]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-08-18 14:14:55,068] ---------- START delete file in folder ----------
+[INFO ] [2021-08-18 14:14:55,083] ---------- END delete file in folder ----------
+[INFO ] [2021-08-19 13:55:31,663] ---------- START delete file in folder ----------
+[INFO ] [2021-08-19 13:55:31,689] ---------- END delete file in folder ----------
+[INFO ] [2021-08-19 15:09:59,559] ---------- START delete file in folder ----------
+[INFO ] [2021-08-19 15:09:59,563] ---------- END delete file in folder ----------
+[INFO ] [2021-08-19 15:10:44,025] ---------- START delete file in folder ----------
+[INFO ] [2021-08-19 15:10:44,027] ---------- END delete file in folder ----------
+[INFO ] [2021-08-29 15:21:39,704] ---------- START delete file in folder ----------
+[INFO ] [2021-08-29 15:21:39,727] ---------- END delete file in folder ----------
+[INFO ] [2021-08-29 15:22:12,615] Common_01 - Step 01 - Click to login  link
+[INFO ] [2021-08-29 15:22:14,629] Common_01 - Step 02 - Set all cookies
+[INFO ] [2021-08-29 15:28:48,982] Common_01 - Step 01 - Click to login  link
+[INFO ] [2021-08-29 15:28:50,108] Common_01 - Step 02 - Set all cookies
+[INFO ] [2021-08-29 15:32:14,566] Common_01 - Step 01 - Click to login  link
+[INFO ] [2021-08-29 15:32:15,915] Common_01 - Step 02 - Set all cookies
+[INFO ] [2021-08-29 15:32:20,705] Common_01 - Step 03 - Verify login successfully
+[INFO ] [2021-08-29 15:37:10,679] Common_01 - Step 01 - Click to login  link
+[INFO ] [2021-08-29 15:37:12,167] Common_01 - Step 02 - Set all cookies
+[INFO ] [2021-08-29 15:37:16,173] Common_01 - Step 03 - Verify login successfully
+[INFO ] [2021-08-29 15:41:21,356] ---------- START delete file in folder ----------
+[INFO ] [2021-08-29 15:41:21,360] ---------- END delete file in folder ----------
+[INFO ] [2021-08-29 15:41:33,694] Common_01 - Step 01 - Click to login  link
+[INFO ] [2021-08-29 15:41:35,080] Common_01 - Step 02 - Set all cookies
+[INFO ] [2021-08-29 15:41:35,403] Pre-condition: close browser and driver
+[INFO ] [2021-08-29 15:41:35,403] OS name is windows 7
+[INFO ] [2021-08-29 15:41:38,214] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-08-29 15:48:39,756] Common_01 - Step 01 - Click to login  link
+[INFO ] [2021-08-29 15:48:41,174] Common_01 - Step 02 - Set all cookies
+[INFO ] [2021-08-29 15:48:47,766] Common_01 - Step 03 - Verify login successfully
+[INFO ] [2021-08-29 15:49:33,240] Pre-condition: close browser and driver
+[INFO ] [2021-08-29 15:49:33,240] OS name is windows 7
+[INFO ] [2021-08-29 15:49:35,034] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-08-29 15:53:31,327] Common_01 - Step 01 - Click to login  link
+[INFO ] [2021-08-29 15:53:32,695] Common_01 - Step 02 - Set all cookies
+[INFO ] [2021-08-29 15:53:39,325] Common_01 - Step 03 - Verify login successfully
+[INFO ] [2021-08-29 15:54:09,690] Pre-condition: close browser and driver
+[INFO ] [2021-08-29 15:54:09,690] OS name is windows 7
+[INFO ] [2021-08-29 15:54:11,525] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-08-29 15:57:08,455] Common_01 - Step 01 - Click to login  link
+[INFO ] [2021-08-29 15:57:09,277] Common_01 - Step 02 - Set all cookies
+[INFO ] [2021-08-29 15:57:15,904] Common_01 - Step 03 - Verify login successfully
+[INFO ] [2021-08-29 15:57:46,263] Pre-condition: close browser and driver
+[INFO ] [2021-08-29 15:57:46,263] OS name is windows 7
+[INFO ] [2021-08-29 15:57:48,074] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-08-29 16:08:27,509] Common_01 - Step 01 - Click to login  link
+[INFO ] [2021-08-29 16:08:28,813] Common_01 - Step 02 - Set all cookies
+[INFO ] [2021-08-29 16:08:35,540] Common_01 - Step 03 - Verify login successfully
+[INFO ] [2021-08-29 16:08:35,917] Pre-condition: close browser and driver
+[INFO ] [2021-08-29 16:08:35,917] OS name is windows 7
+[INFO ] [2021-08-29 16:08:38,328] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-11-24 14:07:16,278] ---------- START delete file in folder ----------
+[INFO ] [2021-11-24 14:07:16,302] ---------- END delete file in folder ----------
+[INFO ] [2021-11-24 14:08:11,928] Pre-condition: close browser and driver
+[INFO ] [2021-11-24 14:08:11,929] OS name is windows 7
+[INFO ] [2021-11-24 14:08:15,266] ---------- QUIT BROWSER SUCCESS ----------

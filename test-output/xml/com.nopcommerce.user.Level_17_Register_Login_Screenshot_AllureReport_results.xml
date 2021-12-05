@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="run on firefox"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.227">
+  <properties />
+  
+  
+            <testcase name="TC_02_Login" time="5.368" classname="com.nopcommerce.user.Level_17_Register_Login_Screenshot_AllureReport" />
+                <testcase name="TC_01_Register" time="10.535" classname="com.nopcommerce.user.Level_17_Register_Login_Screenshot_AllureReport" />
+                <testcase name="TC_03_MyAccount" time="6.324" classname="com.nopcommerce.user.Level_17_Register_Login_Screenshot_AllureReport" />
+      
+</testsuite>

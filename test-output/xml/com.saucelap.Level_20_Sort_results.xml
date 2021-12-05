@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="run on firefox"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.526">
+  <properties />
+  
+  
+            <testcase name="Sort_02" time="0.841" classname="com.saucelap.Level_20_Sort" />
+                <testcase name="Sort_01" time="2.685" classname="com.saucelap.Level_20_Sort" />
+      
+</testsuite>

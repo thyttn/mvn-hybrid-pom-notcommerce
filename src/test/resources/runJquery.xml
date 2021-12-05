@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Jquery datatable">
+
+<listeners>
+	<listener class-name = "commons.MethodListener"/>
+</listeners>
+<!--  <parameter name="url" value="https://blueimp.github.io/jQuery-File-Upload/" /> -->
+	<test name="run on firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.jquery.Level_14_Assert_Verify_Custom" />
+		</classes>
+	</test> <!-- Test -->	
+</suite> <!-- Suite -->

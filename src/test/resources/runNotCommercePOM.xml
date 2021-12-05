@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="tests" name="User NopCommerce">
+
+	<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="commons.MethodListener"/>
+        <listener class-name="reportConfig.ReportNGListener"/>
+	</listeners>
+  <parameter name="url" value="https://demo.nopcommerce.com/" />
+
+	<test name="run on chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="testNG.CloseBrowserAndDriver" />
+		</classes>
+	</test> <!-- Test -->
+
+	
+</suite> <!-- Suite -->

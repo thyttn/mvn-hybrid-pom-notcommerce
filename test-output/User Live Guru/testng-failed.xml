@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [User Live Guru]">
+  <parameter name="url" value="http://live.demoguru99.com/"/>
+  <test thread-count="5" name="run on firefox(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.liveguru.user.Level_10_DataTable">
+        <methods>
+          <include name="afterTest"/>
+          <include name="TC_02_Admin_Check_Register_Success"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.liveguru.user.Level_10_DataTable -->
+    </classes>
+  </test> <!-- run on firefox(failed) -->
+</suite> <!-- Failed suite [User Live Guru] -->

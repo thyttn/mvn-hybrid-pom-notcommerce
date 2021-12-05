@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="tests" name="Orange hrm live">
+
+	<listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="commons.MethodListener"/>
+       <!--  <listener class-name="reportConfig.ExtentReportListenerV2"/> -->
+        <listener class-name="reportConfig.ReportNGListener"/>
+	</listeners>
+  <parameter name="url" value="https://opensource-demo.orangehrmlive.com/" />
+  <parameter name="employee" value="\\testdata\\com\\hrm\\data\\Employee.json" />
+	<test name="run on firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="browserCapabilities.Level_23_Show_Browser_Log" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="run on firefox"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.148">
+  <properties />
+  
+  
+            <testcase name="TC_01_" time="0.131" classname="com.nopcommerce.user.Level_18_Register_Login_Cookies" />
+                <testcase name="TC_02_" time="0.017" classname="com.nopcommerce.user.Level_18_Register_Login_Cookies" />
+      
+</testsuite>

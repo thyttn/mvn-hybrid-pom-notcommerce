@@ -1,0 +1,13 @@
+{
+	"firstname":"Warren",
+	"lastname":"Buffet",
+	"fullname": "Warren Buffet",
+	"userPassword":"12341234",
+	"statusValue":"Enabled",
+	"PersonalDetail": {
+		"editOtherId":"1234",
+		"editLisenceExpireDate":"2018-11-14",
+		"editMaritalStatus":"Single",
+		"editNationality":"American"
+	}
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Jquery datatable]">
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+  </listeners>
+  <test thread-count="5" name="run on firefox(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.jquery.Level_14_Assert_Verify_Custom">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="TC_01_Paging"/>
+        </methods>
+      </class> <!-- com.jquery.Level_14_Assert_Verify_Custom -->
+    </classes>
+  </test> <!-- run on firefox(failed) -->
+</suite> <!-- Failed suite [Jquery datatable] -->

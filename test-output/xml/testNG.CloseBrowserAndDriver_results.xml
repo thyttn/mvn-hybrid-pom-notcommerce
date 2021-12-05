@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="run on chrome"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="20.609">
+  <properties />
+  
+  
+            <testcase name="TC_02_Login" time="7.706" classname="testNG.CloseBrowserAndDriver" />
+                <testcase name="TC_01_Register" time="6.869" classname="testNG.CloseBrowserAndDriver" />
+                <testcase name="TC_03_MyAccount" time="6.034" classname="testNG.CloseBrowserAndDriver" />
+      
+</testsuite>

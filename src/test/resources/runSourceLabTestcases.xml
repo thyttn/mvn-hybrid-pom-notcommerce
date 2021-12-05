@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Source lab">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="commons.MethodListener" />
+		<!--<listener class-name="allureConfig.AllureTestListener"/> -->
+		<listener class-name="reportConfig.ReportNGListener" />
+	</listeners>
+
+	<parameter name="url" value="https://www.saucedemo.com/" />
+	<test name="run on firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.saucelap.Level_20_Sort" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

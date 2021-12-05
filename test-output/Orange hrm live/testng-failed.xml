@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Orange hrm live]">
+  <parameter name="browser" value="firefox"/>
+  <parameter name="employee" value="\\testdata\\com\\hrm\\data\\Employee.json"/>
+  <parameter name="url" value="https://opensource-demo.orangehrmlive.com/"/>
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="commons.MethodListener"/>
+    <listener class-name="reportConfig.ReportNGListener"/>
+  </listeners>
+  <test name="run on firefox">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="browserCapabilities.Level_23_Show_Browser_Log"/>
+    </classes>
+  </test> <!-- run on firefox -->
+</suite> <!-- Failed suite [Orange hrm live] -->

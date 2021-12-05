@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="User Live Guru">
+
+	<parameter name="url" value="http://live.demoguru99.com/" />
+	<test name="run on firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.liveguru.user.Level_10_DataTable" />
+		</classes>
+	</test> <!-- Test -->
+	
+</suite> <!-- Suite -->

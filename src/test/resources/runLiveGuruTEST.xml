@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="User Live Guru">
+
+	<parameter name="url" value="https://demo.guru99.com/v2" />
+	<test name="run on firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<class name="com.hrm.employee.Level_23_Multi_Enviroment" />
+		</classes>
+	</test> <!-- Test -->
+	
+</suite> <!-- Suite -->
